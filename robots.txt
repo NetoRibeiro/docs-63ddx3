@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-o4w1c9.clawd.ceo/sitemap.xml
